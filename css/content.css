@@ -58,6 +58,11 @@
     font-size: 2.5em!important;
 }
 
+
+.memb h5 {
+    font-size: 2.5em!important;
+}
+
 .article p {
     color: var(--text-color-dk);
 }

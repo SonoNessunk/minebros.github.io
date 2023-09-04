@@ -1,0 +1,7 @@
+@media (hover: hover) {
+    .memb div h5 a:hover{
+        color: rgba(255, 255, 255, 0.068)!important;
+        text-shadow: rgba(255, 255, 255, 0.068) 8px 8px 5px!important;
+    }
+
+}
